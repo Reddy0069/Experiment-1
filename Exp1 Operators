@@ -1,0 +1,29 @@
+#arithmetic Op
+a=20
+b=30
+print("Addition",a+b)
+print("Subtraction",a-b)
+print("Multiplication",a*b)
+print("Division",a/b)
+
+#Relational Op
+Result = a==b
+Result2 = a>b
+Result3 = a<b
+print("Both The Values R Equal  ",Result)
+print("A is greater than B  ",Result2)
+print("B is greater than A  ",Result3)
+
+#Logical Op
+x = True
+y = False
+
+print (x and y)
+print (x or y)
+print (not y)
+
+#Assignment Op
+z=5
+z+=5
+
+print(z)

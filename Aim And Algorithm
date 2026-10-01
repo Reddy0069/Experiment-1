@@ -1,0 +1,13 @@
+Aim: To use different operators.
+Algorithm: 
+1.START
+2.Initialize two values x and y.
+3.Perform and display comparison operations between x and y.
+4.Perform and display arithmetic operations such as addition, subtraction, multiplication, division, and floor division.
+5.Perform and display bitwise operations such as AND, XOR, NOT, left shift, and right shift.
+6.Perform and display logical operations using and, or, and not.
+7.Initialize num and perform different assignment operations on it.
+8.Initialize p, q, and r and demonstrate identity operators using is and is not.
+9.Create a list of colors and demonstrate membership operators using in and not in.
+10.Display the results of all operations.
+11.STOP
